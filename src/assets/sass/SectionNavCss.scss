@@ -1,0 +1,79 @@
+.columns{
+  background-color: #eaeaea;
+ padding:4em 4em 2em 4em;
+}
+.bd-notification {
+  background-color: whitesmoke;
+  border-radius: 50px;
+  padding: 1.25rem 0;
+  position: relative;
+  text-align: center;
+  font-size: 1.5em;
+  font-weight: 900;
+}
+
+.bd-notification .title,
+.bd-notification .subtitle,
+.bd-notification .content,
+.bd-notification strong {
+  color: currentColor;
+}
+
+.bd-notification code,
+.bd-notification pre {
+  background: white;
+}
+
+.bd-notification pre code {
+  background: transparent;
+}
+
+.bd-notification.is-white {
+  background-color: white;
+  color: #0a0a0a;
+}
+
+.bd-notification.is-black {
+  background-color: #0a0a0a;
+  color: white;
+}
+
+.bd-notification.is-light {
+  background-color: whitesmoke;
+  color: #363636;
+}
+
+.bd-notification.is-dark {
+  background-color: #363636;
+  color: whitesmoke;
+}
+
+.bd-notification.is-primary {
+  background-color: #00d1b2;
+  color: #fff;
+}
+
+.bd-notification.is-link {
+  background-color: #3273dc;
+  color: #fff;
+}
+
+.bd-notification.is-info {
+  background-color: #209cee;
+  color: #fff;
+}
+
+.bd-notification.is-success {
+  background-color: #23d160;
+  color: #fff;
+}
+
+.bd-notification.is-warning {
+  background-color: #ffdd57;
+  color: rgba(0, 0, 0, 0.7);
+}
+
+.bd-notification.is-danger {
+  background-color: #ff3860;
+  color: #fff;
+}

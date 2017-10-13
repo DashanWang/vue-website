@@ -27,20 +27,20 @@
     <div id="navMenu" class="navbar-menu">
       <div class="navbar-start">
         <div class="navbar-item has-dropdown is-hoverable">
-          <a class="navbar-link  is-active" href="/documentation/overview/start/">
+          <a class="navbar-link  is-active" >
             园所详情
           </a>
           <div class="navbar-dropdown is-boxed">
-            <a class="navbar-item " href="/documentation/overview/start/">
+            <a class="navbar-item ">
               概况
             </a>
-            <a class="navbar-item " href="http://bulma.io/documentation/modifiers/syntax/">
+            <a class="navbar-item " >
              班级设置
             </a>
-            <a class="navbar-item " href="http://bulma.io/documentation/columns/basics/">
+            <a class="navbar-item " >
               招生简章
             </a>
-            <a class="navbar-item " href="http://bulma.io/documentation/layout/container/">
+            <a class="navbar-item ">
               师资力量
             </a>
             <!-- <hr class="navbar-divider">
@@ -59,7 +59,7 @@
           </div>
         </div>
         <div class="navbar-item has-dropdown is-hoverable">
-          <a class="navbar-link " href="http://bulma.io/blog/">
+          <a class="navbar-link ">
            园所活动
           </a>
           <div id="blogDropdown" class="navbar-dropdown is-boxed" data-style="width: 18rem;">
@@ -180,7 +180,7 @@
 
             </p>
             <p class="control">
-              <a class="button is-info" href="https://github.com/jgthms/bulma/archive/0.5.3.zip">
+              <a class="button is-info" >
                 <span class="icon">
                   <i class="fa fa-download"></i>
                 </span>
@@ -188,7 +188,7 @@
               </a>
             </p>
             <p class="control">
-              <a class="button is-primary" href="https://github.com/jgthms/bulma/archive/0.5.3.zip">
+              <a class="button is-primary">
                 <span class="icon">
                   <i class="fa fa-download"></i>
                 </span>
@@ -196,7 +196,7 @@
               </a>
             </p>
             <p class="control">
-              <a class="button is-primary" href="https://github.com/jgthms/bulma/archive/0.5.3.zip">
+              <a class="button is-primary">
                 <span class="icon">
                   <i class="fa fa-download"></i>
                 </span>

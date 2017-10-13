@@ -1,18 +1,18 @@
 <template>
-  <div>
-    <div class="columns is-variable is-6">
-      <div class="column">
-        First column
-      </div>
-      <div class="column">
-        Second column
-      </div>
-      <div class="column">
-        Third column
-      </div>
-      <div class="column">
-        Fourth column
-      </div>
+  <div class="columns is-variable is-8">
+    <div class="column">
+      <p class="bd-notification is-info">教育资源<br/><i class="fa fa-book" aria-hidden="true"></i></p>
+      
+    </div>
+    <div class="column">
+      <p class="bd-notification is-success">幼儿活动<br/><i class="fa fa-bicycle" aria-hidden="true"></i></p>
+      
+    </div>
+    <div class="column">
+      <p class="bd-notification is-warning">师资力量<br/><i class="fa fa-id-badge" aria-hidden="true"></i></p>
+    </div>
+    <div class="column">
+      <p class="bd-notification is-danger">照片墙<br/><i class="fa fa-picture-o" aria-hidden="true"></i></p>
     </div>
   </div>
 </template>
@@ -30,10 +30,5 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style lang="scss" scoped>
-
-.column 
-   {
-    border: 1px solid;
-  
-}
+@import '../../assets/sass/SectionNavCss.scss'
 </style>

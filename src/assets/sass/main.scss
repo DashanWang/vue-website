@@ -1,0 +1,13 @@
+@import '~bulma';
+// @import "~bulma/sass/utilities/variables.sass";
+// @import "node_modules/bulma/bulma.sass";
+@font-face {
+  font-family: zkBlack;
+  src: url('/static/fonts/zk-font.tff'),
+};
+html body{
+    padding:7em 0 70px 0;
+    margin:0;
+    height:100%;
+    font-family: zkBlack;
+} 

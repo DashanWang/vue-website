@@ -24,17 +24,4 @@ export default {
   color: #2c3e50;
   height:100%;
 }
-
- @font-face {  
-  
-    font-family: zkBlack;  
-    src:url('/static/fonts/zk-font.tff'),    
-}  
-
-html body{
-    padding:7em 0 70px 0;
-    margin:0;
-    height:100%;
-    font-family: zkBlack;
-} 
 </style>
